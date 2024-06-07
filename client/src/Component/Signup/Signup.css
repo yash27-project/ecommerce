@@ -1,0 +1,21 @@
+.signup{
+   margin-left: 30%;
+}
+.signup-form-display{
+    display: inline-grid;
+    width: 300px;
+
+}
+.inputBox{
+    border: 1px solid cornflowerblue;
+    padding: 7px;
+}
+.sign-button{
+    margin: 10px;
+    padding: 5px;
+    width: 100px;
+    margin-left: 0px;
+    background-color: cornflowerblue;
+    border: none;
+    cursor: pointer;
+}

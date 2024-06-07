@@ -1,0 +1,39 @@
+.search {
+    border: 1px solid cornflowerblue;
+    margin-left: 20px;
+    width: 200px;
+    height: 20px;
+    border-color: cornflowerblue;
+}
+.reset{
+    margin-left: 20px;
+    background-color: cornflowerblue;
+    border: none;
+    height: 25px;
+    width: 80px;
+    text-align: center;
+    cursor: pointer;
+}
+.column-button{
+    text-decoration: none;
+    background-color: cornflowerblue;
+    margin-left: 10px;
+    cursor: pointer;
+    border: none;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+}
+.column-update{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.column-button:hover{
+    background-color: aqua;
+}
+.validation{
+    color: red;
+    margin-bottom: 10px;
+}
+
